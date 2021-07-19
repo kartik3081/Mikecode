@@ -1,3 +1,0 @@
-This is sixth file for validation
-
-Adding new code line in file for merge to master branch
